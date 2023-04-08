@@ -1,4 +1,4 @@
-Tokenize each sentence in the yelp review csv file to break down the dataset into smaller pieces of meaningful data
+The following contains the logic behind our BERT NLP algorithm:
     1. Tokenize the dataset into individual sentences to analyze them individually
     2. Go through each sentence and remove all punctuation in order to solely focus on the meaning of each word
     3. Will utilize the PreTokenizer to split words in the sentences based off white space
