@@ -1,0 +1,12 @@
+Tokenize each sentence in the yelp review csv file to break down the dataset into smaller pieces of meaningful data
+    1. Tokenize the dataset into individual sentences to analyze them individually
+    2. Go through each sentence and remove all punctuation in order to solely focus on the meaning of each word
+    3. Will utilize the PreTokenizer to split words in the sentences based off white space
+    4. Will create a scale from 1-10 to classify each setence, with 1 being the most negative and 10 being the most positive.
+        Scores of 1-4 will be classified as negative, 5 will be classified as neutral, and 6-10 will be classified as positive.
+    5. Will build segment embeddings by assigning each sentence to a numerical value, starting from 0 to the length of the dataset
+    6. Will build position embeddings by iterating over each sentence and assigning indicies to each word for the position 
+        in which it occurs in its respective sentence
+    7. Will sum up these three embeddings to generate a vector of size 768
+    8. Will use this vector to create the stack of encoders 
+    9. After the sentences have gone through the encoders, the output will be the sentiment associated with each given sentence

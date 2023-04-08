@@ -20,9 +20,10 @@ Goals:
 We've chosen to work on this project as we are all interested in NLP and sentiment analysis. Additionally, rust "enables the development of end to end deep-learning pipelines" (retrieved from https://www.reddit.com/r/MachineLearning/comments/fey8n6/p_rust_native_language_models_and_nlp_pipelines/).
 
 Technical Overview:
-
-Checkpoint 1: Creating the backend of the project, i.e., the NLP algorithm with BERT language model and achieving an accuracy rate of atleast 40%.
-Checkpoint 2: Improving the accuracy of the algorithm. Creating a UI in rust. Exploring libraries to represent the predictions graphically.
+1. Write down the logic in pseudocode for the algorithm
+2. explore the rust bert algorithm
+Checkpoint 1: Write down the logic in pseudocode for the algorithm, explore the rust bert algorithm
+Checkpoint 2: Creating the backend of the project, i.e., the NLP algorithm with BERT language model and achieving an accuracy rate of at least 75%. Creating a UI in rust. Exploring libraries to represent the predictions graphically.
 
 Possible Challenges:
 1. familiarize ourselves with the different Rust packages and libraries required to implement our algorithm
@@ -36,5 +37,3 @@ References:
 https://www.reddit.com/r/MachineLearning/comments/fey8n6/p_rust_native_language_models_and_nlp_pipelines/
 https://github.com/guillaume-be/rust-bert
 https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
-
-Hello, this is a test.
