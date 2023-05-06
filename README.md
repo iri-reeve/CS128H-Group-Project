@@ -1,6 +1,6 @@
 # CS128H-Group-Project
 
-GROUP NAME: TO BE DETERMINED
+GROUP NAME: Rust_BERT_NLP
 
 Group member 1 name: Jiya Patidar
 Group member 1 net id: jiya2
