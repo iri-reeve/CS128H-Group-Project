@@ -7,4 +7,5 @@ edition = "2021"
 [dependencies]
 rust-bert = "0.10.0"
 tch = "0.4.1"
+tokenizers = "0.11"
 tokio = { version = "1.0", features = ["full"] }
