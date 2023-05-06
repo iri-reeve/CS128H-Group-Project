@@ -40,3 +40,4 @@ https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hu
 https://doi.org/10.48550/arXiv.1810.04805
 https://github.com/huggingface/tokenizers
 
+#IMPORTANT -- our src code is under bin directory
