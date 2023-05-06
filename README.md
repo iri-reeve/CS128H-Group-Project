@@ -37,3 +37,6 @@ References:
 https://www.reddit.com/r/MachineLearning/comments/fey8n6/p_rust_native_language_models_and_nlp_pipelines/
 https://github.com/guillaume-be/rust-bert
 https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
+https://doi.org/10.48550/arXiv.1810.04805
+https://github.com/huggingface/tokenizers
+
